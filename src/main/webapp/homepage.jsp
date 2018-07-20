@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>首页-biubiu</title>
+    <title>云开发-昆山软件开的测试培训-数智云</title>
     <%@include file="inclued_page/base_js_css.jsp" %>
     <link href="./css/home.css" rel="stylesheet">
 </head>

@@ -3,7 +3,7 @@
 
 <nav class="navbar" role="navigation" style="margin-bottom:10px">
     <div id="head_content" style="width: 90%;margin: 0 auto;height: 100%">
-        <div class="logo" style="width: 100px;text-align: center;float: left;">biubiu</div>
+        <div class="logo" style="width: 100px;text-align: center;float: left;">云开发</div>
 
         <div class="ul_buttons">
 
