@@ -13,11 +13,11 @@
         </filter>
     </appender>
 
-    <appender name="biubiu" class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <!--<File>d:/biubiulog/biubiu.log</File>-->
-        <File>/Users/zc/developer/apache-tomcat-8.5.15/logs/biubiu.log</File>
+    <appender name="peixunportal" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!--<File>d:/peixunportallog/peixunportal.log</File>-->
+        <File>/Users/zc/developer/apache-tomcat-8.5.15/logs/peixunportal.log</File>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-            <fileNamePattern>/Users/zc/developer/apache-tomcat-8.5.15/logs/biubiu.log.%d{yyyy-MM-dd}.gz
+            <fileNamePattern>/Users/zc/developer/apache-tomcat-8.5.15/logs/peixunportal.log.%d{yyyy-MM-dd}.gz
             </fileNamePattern>
             <append>true</append>
             <maxHistory>10</maxHistory>
@@ -29,11 +29,11 @@
 
 
     <appender name="error" class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <!--<File>d:/biubiulog/error.log</File>-->
+        <!--<File>d:/peixunportallog/error.log</File>-->
         <File>/Users/zc/developer/apache-tomcat-8.5.15/logs/error.log</File>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <fileNamePattern>/Users/zc/developer/apache-tomcat-8.5.15/logs/error.log.%d{yyyy-MM-dd}.gz</fileNamePattern>
-            <!--<fileNamePattern>d:/biubiulog/error.log.%d{yyyy-MM-dd}.gz</fileNamePattern>-->
+            <!--<fileNamePattern>d:/peixunportallog/error.log.%d{yyyy-MM-dd}.gz</fileNamePattern>-->
             <append>true</append>
             <maxHistory>10</maxHistory>
         </rollingPolicy>
@@ -47,8 +47,8 @@
         </filter>
     </appender>
 
-    <logger name="com.biubiu" additivity="false" level="INFO">
-        <appender-ref ref="biubiu"/>
+    <logger name="com.peixunportal" additivity="false" level="INFO">
+        <appender-ref ref="peixunportal"/>
         <appender-ref ref="console"/>
     </logger>
 

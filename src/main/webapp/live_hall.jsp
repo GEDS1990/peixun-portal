@@ -7,7 +7,7 @@
 %>
 <html>
 <head>
-    <title>直播广场-biubiu直播</title>
+    <title>直播广场-云培训直播</title>
     <%@include file="inclued_page/base_js_css.jsp" %>
     <style>
         .so-wrap {

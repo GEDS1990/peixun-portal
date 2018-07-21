@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>投稿-biubiu</title>
+    <title>投稿-云培训</title>
     <%@include file="../inclued_page/base_js_css.jsp" %>
 
     <script src="js/fileinput.min.js" type="text/javascript"></script>
@@ -261,7 +261,7 @@
                 <div class="hint">下面是你是你的稿件访问地址:<br>
                     <span class="video_url_">www.agyufsdysfdyuk.dfghd</span></div>
                 <div class="pic"><img width="100%"
-                                      src="https://biubiu-1251950860.cossh.myqcloud.com/video_cover/default.png"></div>
+                                      src="https://云培训-1251950860.cossh.myqcloud.com/video_cover/default.png"></div>
                 <a id="go_video" class="button" href="#">查看稿件</a>
                 <a id="again_video" class="button" href="#">再投一个</a>
             </div>

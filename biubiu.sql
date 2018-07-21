@@ -1,11 +1,11 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : biubiu
+ Source Server         : peixunportal
  Source Server Type    : MySQL
  Source Server Version : 50718
  Source Host           : zcdev.xyz:3306
- Source Schema         : biubiu
+ Source Schema         : peixunportal
 
  Target Server Type    : MySQL
  Target Server Version : 50718

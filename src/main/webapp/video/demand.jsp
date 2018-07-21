@@ -12,7 +12,7 @@
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <title>${video_info.videoTitle}-biubiu</title>
+    <title>${video_info.videoTitle}-云培训</title>
     <%@include file="../inclued_page/base_js_css.jsp" %>
 
     <script type="text/javascript" src="js/jquery.colorpicker.js"></script>

@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>搜索-biubiu</title>
+    <title>搜索-云培训</title>
     <%@include file="inclued_page/base_js_css.jsp" %>
     <script src="js/page_.js" type="text/javascript"></script>
     <script src="js/soso.js" type="text/javascript"></script>
@@ -18,7 +18,7 @@
     <%--<div id="top_contain"></div>--%>
 
     <div id="logo_input">
-        <div id="soso_logo">biubiu搜索</div>
+        <div id="soso_logo">云培训搜索</div>
         <div class="input-group input-group-lg" id="search" style="margin-left: 45px;">
 
             <input type="text" class="form-control" placeholder="输入关键字">

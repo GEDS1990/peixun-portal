@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>资源未找到-biubiu</title>
+    <title>资源未找到-云培训</title>
     <style>
         div.center {
             position: absolute;
@@ -19,7 +19,7 @@
 <div class="center">
     <img id="img_error" src="<%=request.getContextPath()%>/img/404.png" height="427" width="640"><br>
     <div class="errmsg">
-        <b>前端服务器: </b>cn-tj-dx-w-02&nbsp;&nbsp; <b>处理服务器:</b>biubiu<br>
+        <b>前端服务器: </b>cn-tj-dx-w-02&nbsp;&nbsp; <b>处理服务器:</b>云培训<br>
         <b>请求地址:</b> <span id="urlpath"></span>&nbsp;&nbsp; <b>错误号:</b>404&nbsp;&nbsp;
         <br><b>用户IP:</b><%=request.getRemoteHost()%><br>
 

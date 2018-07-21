@@ -1,4 +1,4 @@
-# biubiu
+# peixunportal
 软件开发、测试培训网站（直播、弹幕）
 
 测试账户：

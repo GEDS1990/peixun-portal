@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>错误页面-biubiu</title>
+    <title>错误页面-云培训</title>
 </head>
 <body>
 出错了！！！！！
